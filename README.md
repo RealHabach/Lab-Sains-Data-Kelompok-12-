@@ -1,6 +1,4 @@
-# Monitoring Harga Pangan Antar Daerah
-
-**Laporan Progress Lab Sains Data – Kelompok 12**
+##**Laporan Progress Lab Sains Data – Kelompok 12**
 
 ## 👥 Anggota Kelompok
 
